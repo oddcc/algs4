@@ -79,5 +79,5 @@ bintray {
 }
 
 wrapper {
-  gradleVersion = '2.6'
+  gradleVersion = '6.8'
 }
